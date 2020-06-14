@@ -1,5 +1,7 @@
 # About The Process of creating MERN Stack App
-#### API using `Nodejs` and `Expressjs`
+### Back-end using `Expressjs`
+
+#### API using `Expressjs`
 * First create a project folder and initiate the npm by writing `npm init` in your terminal.
 * Install Expressjs by `npm i express`
 * Install body-parser by `npm i body-parser`
@@ -8,7 +10,7 @@
 #### Database using `MongoDB`
 * Hi
 ----
-#### Front-end using `Reactjs`
+### Front-end using `Reactjs`
 
 ----
 
